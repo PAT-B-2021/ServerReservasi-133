@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\bin\Debug\ServerConfig-P10-133.exe.config
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\bin\Debug\ServerConfig-P10-133.exe
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\bin\Debug\ServerConfig-P10-133.pdb
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\bin\Debug\ServiceReservasi.dll
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\bin\Debug\ServiceReservasi.pdb
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\bin\Debug\ServiceReservasi.dll.config
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\obj\Debug\ServerConfig-P10-133.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\obj\Debug\ServerConfig-P10-133.exe
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\obj\Debug\ServerConfig-P10-133.pdb
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\obj\Debug\ServerConfig-P10-133.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ServerConfig-P10-133\ServerConfig-P10-133\obj\Debug\ServerConfig-P10-133.csproj.CoreCompileInputs.cache
